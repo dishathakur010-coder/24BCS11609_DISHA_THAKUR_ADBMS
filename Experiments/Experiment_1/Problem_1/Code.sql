@@ -1,4 +1,4 @@
-https://www.codechef.com/learn/course/sql-intermediate/SQ00BS02/problems/SQLKEY01B
+https://www.codechef.com/viewsolution/1306485555
 
 DELETE FROM Customers WHERE customer_name='John Doe';
 SELECT * FROM Orders;
