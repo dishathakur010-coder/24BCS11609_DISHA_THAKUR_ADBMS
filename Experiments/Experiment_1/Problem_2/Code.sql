@@ -1,4 +1,4 @@
-https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR103?tab=statement
+https://www.codechef.com/viewsolution/1306492201
 
 --Complete the queries below to insert data into the tables & retrieving the first records from the first 3 tables.
 
