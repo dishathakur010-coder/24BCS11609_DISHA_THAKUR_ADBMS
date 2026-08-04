@@ -1,3 +1,4 @@
+https://www.codechef.com/viewsolution/1328252426
 -- We have a student table that also stores the Course_id of a student's favorite course. Our task has two parts related to using a SELF JOIN:
 
 --     Find pairs of students that belong to the same department.
